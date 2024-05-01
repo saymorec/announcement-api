@@ -1,0 +1,5 @@
+pytest==7.2.0
+pytest-fastapi
+fastapi==0.68.0
+requests
+sqlalchemy
